@@ -16,3 +16,8 @@ s  send and recieve data.
 
 
 ### open sonsole in browser:```ctrl+shift+j```
+
+#### In JavaScript, `document.write()` can be used to write directly to the HTML output stream:
+`document.getElementById(id).style.property = new style` e.g. `document.getElementById('id1').style.color = 'red'`
+`document.getElementById(id).innerHTML = new HTML`
+`document.getElementById(id).attribute = new value` e.g. `document.getElementById("myImage").src="landscape.jpg"`
